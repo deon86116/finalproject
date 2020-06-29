@@ -1,0 +1,1 @@
+BUILD/K66F/GCC_ARM/2.o: 2.cpp BUILD/K66F/GCC_ARM/mbed_config.h
